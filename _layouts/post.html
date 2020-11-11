@@ -4,8 +4,9 @@ layout: default
 
 <div class="post">
   <h1 class="post-title">{{ page.title }}</h1>
+  <span class="post-date">{{ page.date | date_to_string }}
 
-  <div style="text-align: center;">
+      <div style="text-align: center;">
     <a href="http://hits.dwyl.com/{{ site.url | remove_first: 'https://' | remove_first: 'http://' }}{{ page.url }}"
        target="_blank">
       <img
@@ -13,7 +14,7 @@ layout: default
     </a>
   </div>
 
-  <span class="post-date">{{ page.date | date_to_string }}</span>
+  </span>
   {{ content }}
 </div>
 
