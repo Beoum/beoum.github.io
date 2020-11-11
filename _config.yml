@@ -12,7 +12,9 @@ author:
   name:              BeoumHui Bae
   url:               https://github.com/Beoum
   email:             qoqjagml123@naver.com
-
+  contact:
+    github:    https://github.com/Beoum
+    email:     qoqjagml123@naver.com
 # Gems
 plugins:
   - jekyll-paginate
@@ -23,5 +25,5 @@ google_analytics_id: #UA-XXXX-Y
 
 category_dir: category/
 
-github: “https://github.com/Beoum“`
+
 
