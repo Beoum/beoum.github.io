@@ -2,10 +2,10 @@ email:
   id: 'qoqjagml123@naver.com'
   href: 'mailto:'
   title: 'Email'
-  fa-icon: 'fa-envelope'
+  fa-icon: 'fa-envelope-square'
 
 github:
   id: 'Beoum'
   href: 'https://github.com/Beoum'
   title: 'GitHub'
-  fa-icon: 'fa-github'
+  fa-icon: 'fa-github-square'

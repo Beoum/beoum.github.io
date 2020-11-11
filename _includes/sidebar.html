@@ -5,17 +5,7 @@
 <!-- Toggleable sidebar -->
 <div class="sidebar" id="sidebar">
   <div class="sidebar-item">
-      {% if site.data.social-media %}
-      <div id="social-media">
-          {% assign sm = site.data.social-media %}
-          {% for entry in sm %}
-          {% assign key = entry | first %}
-          {% if sm[key].id %}
-          <a href="{{ sm[key].href }}{{ sm[key].id }}" title="{{ sm[key].title }}"><i class="fa {{ sm[key].fa-icon }}"></i></a>
-          {% endif %}
-          {% endfor %}
-      </div>
-      {% endif %}
+      <p>[dt_social_icon target_blank="true" icon="github" link="{{site.github}}" /]</p>
   </div>
 
   <nav class="sidebar-nav">
