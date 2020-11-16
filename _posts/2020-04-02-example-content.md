@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Example content
-categories: [sample]
+comments: true
+categories: [개발일지]
 ---
 
 
