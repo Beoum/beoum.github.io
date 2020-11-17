@@ -22,10 +22,10 @@ plugins:
 
 # Custom vars
 version:             1.1.0
-google_analytics_id: 5FJ05Q2E1X
+google_analytics_id: G-5FJ05Q2E1X
 
 category_dir: category/
 
 disqus_shortname: https://beoum.github.io
 
-google_analytics: 5FJ05Q2E1X
+google_analytics: G-5FJ05Q2E1X
