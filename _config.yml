@@ -29,3 +29,9 @@ category_dir: category/
 disqus_shortname: https://beoum.github.io
 
 google_analytics: G-5FJ05Q2E1X
+
+analytics:
+  provider: google
+  ...
+  google:
+    tracking_id : G-5FJ05Q2E1X
