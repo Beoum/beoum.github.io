@@ -4,3 +4,5 @@ main:
     url: https://beoum.github.io/
   - title: "Categories"
     url: /categories/
+  - title: "Posts"
+    url: /year-archive/
