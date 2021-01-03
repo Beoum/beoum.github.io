@@ -32,7 +32,7 @@ words_per_minute         : 200
 comments:
   provider               : "disqus"
   disqus:
-    shortname            : https://beoum.github.io
+    shortname            : "https://beoum.github.io"
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -87,7 +87,7 @@ social:
 analytics:
   provider               : "google"
   google:
-    tracking_id          : G-5FJ05Q2E1X
+    tracking_id          : "G-5FJ05Q2E1X"
     anonymize_ip         : # true, false (default)
 
 
